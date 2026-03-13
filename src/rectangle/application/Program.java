@@ -1,4 +1,4 @@
-package rectangle.entities.application;
+package rectangle.application;
 
 import rectangle.entities.Rectangle;
 import java.util.Scanner;
