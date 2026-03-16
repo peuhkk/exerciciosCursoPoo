@@ -43,14 +43,14 @@ Durante os exercícios, são trabalhados conceitos como:
 
 
 src
-┣ application
+┣ school.application
 ┃ ┗ Program.java
-┣ entities
+┣ school.entities
 ┃ ┗ Product.java
 
 
-- `application` → classe principal onde o programa executa  
-- `entities` → classes que representam as entidades do sistema
+- `school.application` → classe principal onde o programa executa  
+- `school.entities` → classes que representam as entidades do sistema
 
 ---
 
