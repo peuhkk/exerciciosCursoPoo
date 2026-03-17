@@ -1,6 +1,4 @@
-package bank;
-
-import currency.util.CurrencyConverter;
+package bank.application;
 
 import java.util.Locale;
 import java.util.Scanner;
